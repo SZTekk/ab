@@ -1,10 +1,12 @@
 <h1 align="center">Hello there 👋, I'm Jesse</h1>
-<h3 align="center">Welcome to SZ Tech - Your Partner in Software Excellence! 
+<h3 align="left">Welcome to SZ Tech - Your Partner in Software Excellence!
+
 We are a small software development consulting firm, specializing in transforming ideas into innovative solutions. With a focus on the complete SDLC, our team navigates changes and challenges, ensuring a comprehensive understanding of your operations and aspirations. 
 Services We Offer: 
 - Expert Business Analysis 
 - Strategic Technological Innovation 
-- Keen Solution Architecture 
+- Keen Solution Architecture
+- EDI Cloud Engineering
 - Tailored Data Visualization Solutions 
 - Manual and Automated Testing Excellence 
 
@@ -17,9 +19,9 @@ Explore our GitHub repository to discover the projects and tools that showcase o
 
 - 🌱 I’m currently learning **Playwright, IBM Sterling, Machine Learning, & AI**
 
-- 👯 I’m looking to collaborate on **TBD**
+- 👯 I’m looking to collaborate on **SaaS Projects**
 
-- 🤝 I’m looking for help with **TBD**
+- 🤝 I’m looking for help with **UI/UX designs for my SaaS Projects**
 
 - 💬 Ask me about **Cypress, Selenium, EDI, API, Python, XML, JSON, Requirements**
 
