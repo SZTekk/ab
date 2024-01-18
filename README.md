@@ -2,6 +2,7 @@
 <h3 align="left">Welcome to SZ Tech - Your Partner in Software Excellence!
 
 We are a small software development consulting firm, specializing in transforming ideas into innovative solutions. With a focus on the complete SDLC, our team navigates changes and challenges, ensuring a comprehensive understanding of your operations and aspirations. 
+
 Services We Offer: 
 - Expert Business Analysis 
 - Strategic Technological Innovation 
