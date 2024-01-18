@@ -12,7 +12,15 @@ Services We Offer:
 
 Explore our GitHub repository to discover the projects and tools that showcase our commitment to quality, efficiency, and transformative software solutions. Partner with us for a journey into the future of software excellence!</h3>
 <p img align="right" alt="Coding" width="400" src="”>
-  
+
+<p align="left">
+  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Your Giphy Description" width="480" height="360" />
+</p>
+<p align="left">
+  <a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm"> </a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sztekk&label=Profile%20views&color=0e75b6&style=flat" alt="sztekk" /> </p>
 
 - 🔭 I’m currently working on **Fintech SaaS**
