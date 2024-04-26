@@ -16,6 +16,7 @@ We are a small software development consulting firm, specializing in transformin
 - EDI Cloud Engineering
 - Tailored Data Visualization Solutions 
 - Manual and Automated Testing Excellence
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sztekk&label=Profile%20views&color=0e75b6&style=flat" alt="sztekk" /> </p>
   - 🔭 I’m currently working on **Fintech SaaS** </br> 
   - 🌱 I’m currently learning **Playwright, IBM Sterling, Machine Learning, & AI** </br> 
