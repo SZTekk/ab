@@ -1,25 +1,21 @@
-<h1 align="center">Hello there 👋, I'm Jesse</h1>
-<h3 align="left">Welcome to SZ Tech - Your Partner in Software Excellence!
-
-We are a small software development consulting firm, specializing in transforming ideas into innovative solutions. With a focus on the complete SDLC, our team navigates changes and challenges, ensuring a comprehensive understanding of your operations and aspirations. 
-
-Services We Offer: 
-- Expert Business Analysis 
-- Strategic Technological Innovation 
-- Keen Solution Architecture
-- EDI Cloud Engineering
-- Tailored Data Visualization Solutions 
-- Manual and Automated Testing Excellence 
-
-Explore our GitHub repository to discover the projects and tools that showcase our commitment to quality, efficiency, and transformative software solutions. Partner with us for a journey into the future of software excellence!</h3>
 <p img align="right" alt="Coding" width="400" src="”>
-
-<p align="left">
+  <p align="left">
   <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Your Giphy Description" width="480" height="360" />
 </p>
 <p align="left">
   <a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm"> </a>
 </p>
+<h1 align="center">Hello there 👋, I'm Jesse</h1>
+Welcome to SZ Tech - Your Partner in Software Excellence!
+We are a small software development consulting firm, specializing in transforming ideas into innovative solutions. With a focus on the complete SDLC, our team navigates changes and challenges, ensuring a comprehensive understanding of your operations and aspirations. 
+
+### Services We Offer: 
+- Expert Business Analysis 
+- Strategic Technological Innovation 
+- Keen Solution Architecture
+- EDI Cloud Engineering
+- Tailored Data Visualization Solutions 
+- Manual and Automated Testing Excellence
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sztekk&label=Profile%20views&color=0e75b6&style=flat" alt="sztekk" /> </p>
