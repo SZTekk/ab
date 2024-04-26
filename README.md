@@ -1,4 +1,4 @@
-<p img align="right" alt="Coding" width="400" src="”>
+<p img align="center" alt="Coding" width="400" src="”>
   <p align="left">
   <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Your Giphy Description" width="480" height="150" />
 </p>
