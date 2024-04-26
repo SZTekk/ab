@@ -17,13 +17,13 @@ We are a small software development consulting firm, specializing in transformin
 - Tailored Data Visualization Solutions 
 - Manual and Automated Testing Excellence
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sztekk&label=Profile%20views&color=0e75b6&style=flat" alt="sztekk" /> </p>
-  - 🔭 I’m currently working on **Fintech SaaS** 
-  - 🌱 I’m currently learning **Playwright, IBM Sterling, Machine Learning, & AI** 
-  - 👯 I’m looking to collaborate on **SaaS Projects** 
-  - 🤝 I’m looking for help with **UI/UX designs for my SaaS Projects** 
-  - 💬 Ask me about **Cypress, Selenium, EDI, API, Python, XML, JSON, Requirements** 
-  - 📫 How to reach me **admin@saeztech.com** 
-  - ⚡ Fun fact **I am an avid musician.** 
+  - 🔭 I’m currently working on **Fintech SaaS** </br> 
+  - 🌱 I’m currently learning **Playwright, IBM Sterling, Machine Learning, & AI** </br> 
+  - 👯 I’m looking to collaborate on **SaaS Projects** </br> 
+  - 🤝 I’m looking for help with **UI/UX designs for my SaaS Projects** </br> 
+  - 💬 Ask me about **Cypress, Selenium, EDI, API, Python, XML, JSON, Requirements** </br> 
+  - 📫 How to reach me **admin@saeztech.com** </br> 
+  - ⚡ Fun fact **I am an avid musician.** </br> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
